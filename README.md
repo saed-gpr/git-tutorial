@@ -23,5 +23,17 @@ first of all, it could be better to figure out some deffinition about git. those
 
 2 - `HEAD` : HEAD is the last commit
 
-3 - `origin` : 
+3 - `origin` : somewhere that we got a repository
 
+# how to create a repository :
+
+In linux, we create a new directory in Desktop using `mkdir` syntax
+
+```bash
+z@z:~$ cd Desktop/
+z@z:~/Desktop$ mkdir git-tutorial
+```
+
+
+
+- Author : [saed gholipour](https://github.com/saed-gpr)
