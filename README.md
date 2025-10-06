@@ -33,7 +33,9 @@ In linux, we create a new directory in Desktop using `mkdir` syntax
 z@z:~$ cd Desktop/
 z@z:~/Desktop$ mkdir git-tutorial
 ```
-
+for transforming this new directory in the git form, we can use this methode:
+1 - enter using this code ```cd git-tutorial```
+2 - then we can use this command for 
 
 
 - Author : [saed gholipour](https://github.com/saed-gpr)
